@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390490325 source:p:\cmpen452\carddealing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
